@@ -1,0 +1,5 @@
+//Iniciamos proyecto
+npm init --yes
+
+//instala express y guarda en el packejson
+npm install express --save
